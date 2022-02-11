@@ -1,1 +1,3 @@
 Press "C" to let the Chracter Jump.
+
+Hold "C" to jump higher.
