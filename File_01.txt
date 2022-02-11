@@ -11,6 +11,8 @@ Adding a fantastic experimental feature in Branch_01.
 
 New line just for visulization.
 
+toinen rivi 07.
+
 Another line 01.
 
 Another line 02.
@@ -20,3 +22,7 @@ Another line 03.
 Another line 04.
 
 Another line 05.
+
+Another line 06.
+
+Hello World.
