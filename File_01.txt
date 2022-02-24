@@ -25,6 +25,4 @@ Another line 05.
 
 Another line 06.
 
-This line has been added from my pc (not Github, so not online).
-
 Hello World.
